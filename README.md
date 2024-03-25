@@ -14,7 +14,7 @@ This project is designed to solidify understanding of fundamental HTML concepts 
 This project lays the groundwork for building more intricate and interactive websites in the future.
 
 # Acknowledgements
-All recipes and images used in this project were derived from [text](https://www.allrecipes.com/)
-[text](./images/caramel_rolls.jpg) >>> [text](https://www.allrecipes.com/recipe/260902/caramel-rolls/)
-[text](./images/carrots_fennel.jpg) >>> [text](https://www.allrecipes.com/recipe/273671/orange-maple-roasted-carrots-and-fennel/)
-[text](./images/mint_chicken.jpg) >>> [text](https://www.allrecipes.com/recipe/98584/mint-chicken/)
+All recipes and images used in this project were derived from [allrecipes](https://www.allrecipes.com/)
+[Caramel Rolls image](./images/caramel_rolls.jpg) >>> [allrecipes.com](https://www.allrecipes.com/recipe/260902/caramel-rolls/)
+[Orange-Maple Roasted Carrots ad Fennel image](./images/carrots_fennel.jpg) >>> [allrecipes.com](https://www.allrecipes.com/recipe/273671/orange-maple-roasted-carrots-and-fennel/)
+[Mint Chicken image](./images/mint_chicken.jpg) >>> [allrecipes.com](https://www.allrecipes.com/recipe/98584/mint-chicken/)
