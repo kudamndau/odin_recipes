@@ -1,5 +1,12 @@
-html {
+*,
+* ::before,
+* ::after {
   box-sizing: border-box;
+}
+
+* {
+  margin: 0;
+  padding: 0;
 }
 
 body {
@@ -41,24 +48,31 @@ li {
   width: auto;
   height: 800px;
   padding: 15px;
-  margin: 10px;
+  margin: 15px 25px;
 }
 
 h3 {
   color: green;
   text-align: left;
   font-size: 45px;
+  padding-left: 20px;
 }
 
 .content {
-  width: auto;
+  width: 100%;
   height: auto;
 }
 
 .image-container {
   display: inline-block;
   height: auto;
-  width: 650px;
+  width: 600px;
+  margin: 15px 25px;
+}
+
+img {
+  width: 100%;
+  height: auto;
 }
 
 .text {
